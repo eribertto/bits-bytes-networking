@@ -8,6 +8,14 @@ watch osi model the 5 layers, see youtube watch list
 also see notes saved in vivaldi notes manager:
 and downloaded audio/video files saved in local box by jdownloader2:
 todo: check the syntax highlight of this todo+ plugin
+acronym of OSI model:
+	Please     (Physical Layer)
+Do           (Data Link Layer)
+Not          (Network Layer)
+Tell          (Transport Layer)
+Secret      (Session Layer)
+Password (Presentation Layer)
+Anyone    ( Application Layer )
 
 
 --

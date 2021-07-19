@@ -17,7 +17,7 @@ each other. This causes these systems to have to wait for a quiet period before
 they try sending their data again. It really slows down network communications
 and is the primary reason hubs are fairly rare. They're mostly a historical
 artifact today. In much more common way of connecting many computers is with a
-more sophisticated device known as a network switch, originally known as a
+more sophisticated device known as a *network switch*, originally known as a
 switching hub. A switch is very similar to a hub since you can connect many
 devices to it so they can communicate. The difference is that while a hub is a
 layer one or physical layer device, a switch is a layer two or data link device.

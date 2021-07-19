@@ -6,6 +6,16 @@ resume course 2 week 1 learning
 good overview of OSI model:
 ✔ https://www.freecodecamp.org/news/osi-model-networking-layers-explained-in-plain-english/ @done(21-07-19 20:05)
 
+Again		Application		Data
+Please		Presentation	Data
+Send 		Session			Data
+Tell		Transport		Segments
+Not			Network			Packets
+Da			Data			Frames
+Password	Physical		Bits
+
+
+
 markdown MD formatting syntax guide:
 ✔ https://www.markdownguide.org/basic-syntax/ @done(21-07-19 21:17)
 

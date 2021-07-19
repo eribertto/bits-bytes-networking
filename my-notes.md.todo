@@ -3,6 +3,10 @@
 --
 july 19/21
 resume course 2 week 1 learning
+good overview of OSI model:
+✔ https://www.freecodecamp.org/news/osi-model-networking-layers-explained-in-plain-english/ @done(21-07-19 20:05)
+
+
 
 
 
@@ -14,13 +18,13 @@ also see notes saved in vivaldi notes manager:
 and downloaded audio/video files saved in local box by jdownloader2:
 todo: check the syntax highlight of this todo+ plugin
 acronym of OSI model:
-	Please     (Physical Layer)
+Please     (Physical Layer)
 Do           (Data Link Layer)
 Not          (Network Layer)
 Tell          (Transport Layer)
 Secret      (Session Layer)
 Password (Presentation Layer)
-Anyone    ( Application Layer )
+Anymore    ( Application Layer )
 
 
 --

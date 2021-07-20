@@ -6,13 +6,14 @@ resume course 2 week 1 learning
 good overview of OSI model:
 ✔ https://www.freecodecamp.org/news/osi-model-networking-layers-explained-in-plain-english/ @done(21-07-19 20:05)
 
-Again		Application		Data
-Please		Presentation	Data
+Note the acronym mnemonic
+Always		Application		Data
+Prepare		Presentation	Data
 Send 		Session			Data
-Tell		Transport		Segments
-Not			Network			Packets
-Da			Data			Frames
-Password	Physical		Bits
+The		Transport		Segments
+Network			Network			Packets
+Data			Data			Frames
+Physician	Physical		Bits
 
 
 

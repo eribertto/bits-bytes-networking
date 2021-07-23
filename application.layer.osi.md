@@ -3,7 +3,7 @@ of competing network layer models. We've been working from a five-layer
 model, but you'll probably run into various other models during your
 career as an IT support specialist. Some models might combine the physical and data link layers into one and
 only talk about four layers. But you might remember a certain model
-we called out specifically in a reading section back in the first module. This is the OSI or
+we called out specifically in a reading section back in the first module. This is the  or
 Open Systems Interconnection model. This model is important to understand with
 our five-layer model because it's the most rigorously defined. That means it's often used
 in academic settings or by various network
